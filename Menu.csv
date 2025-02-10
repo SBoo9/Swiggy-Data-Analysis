@@ -1,0 +1,11 @@
+item_id,restaurant_id,item_name,item_description,item_price
+1,1,Pasta,"Delicious Italian pasta",12.99
+2,1,Pizza,"Freshly baked pizza",15.50
+3,2,Kung Pao Chicken,"Spicy chicken dish",10.75
+4,2,Chow Mein,"Stir-fried noodles",8.99
+5,3,Butter Chicken,"Creamy Indian curry",13.25
+6,3,Naan,"Traditional Indian bread",3.50
+7,4,Tacos,"Authentic Mexican tacos",9.00
+8,4,Burritos,"Tortilla-wrapped delicacy",7.50
+9,5,Sushi,"Japanese delicacies",20.00
+10,5,Ramen,"Japanese noodle soup",12.50

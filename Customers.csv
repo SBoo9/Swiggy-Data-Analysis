@@ -1,0 +1,6 @@
+customer_id,customer_name,email,phone_number,address
+1,John Doe,john@example.com,111-111-1111,123 Main St, City
+2,Jane Smith,jane@example.com,222-222-2222,456 Elm St, City
+3,Bob Johnson,bob@example.com,333-333-3333,789 Oak St, City
+4,Alice Williams,alice@example.com,444-444-4444,321 Maple St, City
+5,David Lee,david@example.com,555-555-5555,987 Pine St, City
